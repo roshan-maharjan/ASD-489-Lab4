@@ -1,0 +1,5 @@
+Database = Dynamodb
+Storage = s3
+Frontend = Blazor
+Backend = ASP.NET Core
+Email = SNS
